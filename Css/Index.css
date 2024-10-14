@@ -6,6 +6,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
   background-color: #ffffff;
 }
 header {
@@ -87,11 +88,4 @@ footer {
 }
 .about img {
   max-width: 5%;
-}
-@media screen and (max-width: 600px) {
-  
-    
-}
-@media screen {
-    
 }
