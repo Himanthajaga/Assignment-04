@@ -55,7 +55,7 @@
         height: auto;
         position: fixed;
         bottom: 21%;
-        animation: rotate 4s linear 2s infinite;
+        animation: rotate 4s linear  infinite;
       }
 
       #wheel-1 {
