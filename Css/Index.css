@@ -88,4 +88,8 @@ footer {
 }
 .about img {
   max-width: 5%;
+  
+}
+.about a{
+  text-decoration: none;
 }
